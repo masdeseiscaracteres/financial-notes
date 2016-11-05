@@ -1,3 +1,3 @@
-# Summary
+# Outline
 
-* [First Chapter](chapter1.md)
+* [Funds](funds.md)
