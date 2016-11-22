@@ -11,7 +11,9 @@ Categories according to its management strategy: passively managed or actively m
 [Types](https://en.wikipedia.org/wiki/Mutual_fund#Types): open-end, close-end, unit investment trust (UIT), open-end, close-end, unit investment trust (UIT), exchange-traded fund (ETF).
 
 ### Some definitions
-**Money market fund**: Open-ended mutual fund that invests in short-term debt securities such as US Treasury bills and commercial paper.
+**Money market fund**: open-end mutual fund that invests in short-term debt securities such as US Treasury bills and commercial paper.
+
+**Inverse ETF**: some index ETFs, known as leveraged ETFs or inverse ETFs, use investments in derivatives to seek a return that corresponds to a multiple of, or the inverse (opposite) of, the daily performance of the index.
 
 ## Hedge fund
 Hedge funds are made available only to certain accredited investors and cannot be offered or sold to the general public. As such, they generally avoid direct regulatory oversight (e.g. no leverage limits).
