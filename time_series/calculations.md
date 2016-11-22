@@ -16,3 +16,7 @@ $$
 $$
 ##### References
 Magdon-Ismail, Malik et al. *On the Maximum Drawdown of a Brownian Motion.* Journal of Applied Probability, vol. 41, no. 1, 2004, pp. 147–161. [www.jstor.org/stable/3215821](http://alumnus.caltech.edu/~amir/drawdown-jrnl.pdf)
+
+## Drawdown duration
+Time duration of the drawdown period.
+
