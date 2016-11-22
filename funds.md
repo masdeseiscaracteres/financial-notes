@@ -8,7 +8,7 @@ Categories according to its investments: money market funds, bond or fixed incom
 
 Categories according to its management strategy: passively managed or actively managed.
 
-[Types](https://en.wikipedia.org/wiki/Mutual_fund#Types): open-end, close-end, unit investment trust (UIT), open-end, close-end, unit investment trust (UIT), exchange-traded fund (ETF).
+[Types](https://en.wikipedia.org/wiki/Mutual_fund#Types): open-end, close-end, unit investment trust (UIT), exchange-traded fund (ETF).
 
 ### Some definitions
 **Money market fund**: open-end mutual fund that invests in short-term debt securities such as US Treasury bills and commercial paper.
