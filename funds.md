@@ -13,6 +13,10 @@ Categories according to its management strategy: passively managed or actively m
 ### Some definitions
 **Money market fund**: open-end mutual fund that invests in short-term debt securities such as US Treasury bills and commercial paper.
 
+**Unit investment trust (UIT)**:
+
+**Exchange-traded fund (ETF)**: 
+
 **Inverse ETF**: some index ETFs, known as leveraged ETFs or inverse ETFs, use investments in derivatives to seek a return that corresponds to a multiple of, or the inverse (opposite) of, the daily performance of the index.
 
 ## Hedge fund
@@ -37,6 +41,3 @@ The price per share is **determined by the market** and is usually **different f
 #### References
 [Wikipedia entry](https://en.wikipedia.org/wiki/Closed-end_fund)
 
-### Unit investment trust (UIT)
-
-### Exchange-traded fund (ETF)
