@@ -8,8 +8,8 @@
 * FRAs
 * Swaps
 * Forex swaps
-* InterestInteresIInterestIInterestInteresIInterest
-* 
+* Interest rate swaps
+
 * Basis swaps
 * Basis risk
 * Swaption
