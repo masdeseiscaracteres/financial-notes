@@ -4,5 +4,5 @@
 * [Financial time series calculations](time_series/calculations.md)
 * [Funds](funds.md)
 * [Glossary](glossary.md)
-* Financial instruments
+* [Financial instruments](financial_instruments.md)
 
