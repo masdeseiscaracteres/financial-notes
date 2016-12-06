@@ -13,7 +13,7 @@
 * Basis swaps
 * Basis risk
 * Swaption
-* 
+* Quanto (future/option/swap)
 
 
  
