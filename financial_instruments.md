@@ -17,9 +17,9 @@
 [Interest rate parity](https://en.wikipedia.org/wiki/Interest_rate_parity) non-arbitrage condition
 
 * Forex swaps: 
-* Currency swaps \(or cross currency swap\):
+* Currency swaps \(cross currency swap or, more explicitly, cross currency interest rate swaps\):
 
-[Differences between FX and currency swaps](http://www.bis.org/publ/qtrpdf/r_qt0803z.htm)
+[Differences between FX and cross currency basis swaps](http://www.bis.org/publ/qtrpdf/r_qt0803z.htm)
 
 * Interest rate swaps:
 
