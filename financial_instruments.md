@@ -19,10 +19,9 @@
 * Forex swaps: 
 * Currency swaps \(or cross currency swap\):
 
-[Differences](http://www.bis.org/publ/qtrpdf/r_qt0803z.htm)
+[Differences between FX and currency swaps](http://www.bis.org/publ/qtrpdf/r_qt0803z.htm)
 
 * Interest rate swaps:
-
 
 * Credit default swaps:
 
