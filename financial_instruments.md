@@ -24,7 +24,7 @@ A Swap is an agreement to exchange two cash flows coming from assets, but not th
 
 [Interest rate parity](https://en.wikipedia.org/wiki/Interest_rate_parity) non-arbitrage condition
 
-* Interest Rate Swaps \(see Hull,  "OPTIONS, FUTURES, AND OTHER DERIVATIVES"\): By far, the most common is the Interest Rate Swap, in which two parties agree to swap a stream of fixed rate interest rate payments on a notional M of cash for a stream of floating rate payments on the same notional. Although the notional might be quite large, usually only the differences between the payments at each time are exchanged, so the actual payments will be very much smaller.
+* **Interest Rate Swaps** \(see Hull,  "OPTIONS, FUTURES, AND OTHER DERIVATIVES"\): By far, the most common is the Interest Rate Swap, in which two parties agree to swap a stream of fixed rate interest rate payments on a notional M of cash for a stream of floating rate payments on the same notional. Although the notional might be quite large, usually only the differences between the payments at each time are exchanged, so the actual payments will be very much smaller.
 
   Reference: [http://www.quantopia.net/forward-rate-agreements-and-swaps/](http://www.quantopia.net/forward-rate-agreements-and-swaps/)
 
@@ -35,16 +35,18 @@ A Swap is an agreement to exchange two cash flows coming from assets, but not th
 
 Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrates.com/)
 
-* Forward swap \(a.k.a. forward start swap, delayed start swap\):
+* OIS \(Overnight indexed swap\)
 
+* Forward swap \(a.k.a. forward start swap, delayed start swap\):
 
 * Credit default swaps:
 
 * Basis swaps:
 
-* Forex swaps: 
+* Forex swaps:
 
 * Swaption:
+
 * Quanto \(future/option/swap\):
 
 
