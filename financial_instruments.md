@@ -14,7 +14,7 @@ The goal of this document is building a taxonomy of financial contracts.
 
 ### Forward Rate Agreement \(FRA\)
 
-The _rate _word in FRA may refer to currency exchange rate or interest rate. However, the most common use refers to interest rates \(by far\).
+The \_rate \_word in FRA may refer to currency exchange rate or interest rate. However, the most common use refers to interest rates \(by far\).
 
 \(Interest rate\) FRAs allow us to _lock in_ a specified interest rate for borrowing between two future times. Payment is only done once at maturity. This is analogous in rates markets to the forward price of a stock or commodity for future delivery.
 
@@ -24,9 +24,8 @@ A Swap is an agreement to exchange two cash flows coming from assets, but not th
 
 [Interest rate parity](https://en.wikipedia.org/wiki/Interest_rate_parity) non-arbitrage condition
 
-* Forex swaps: 
 * Interest Rate Swaps \(see Hull,  "OPTIONS, FUTURES, AND OTHER DERIVATIVES"\): By far, the most common is the Interest Rate Swap, in which two parties agree to swap a stream of fixed rate interest rate payments on a notional M of cash for a stream of floating rate payments on the same notional. Although the notional might be quite large, usually only the differences between the payments at each time are exchanged, so the actual payments will be very much smaller.
-    
+
   Reference: [http://www.quantopia.net/forward-rate-agreements-and-swaps/](http://www.quantopia.net/forward-rate-agreements-and-swaps/)
 
 
@@ -38,10 +37,12 @@ Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrate
 
 * Forward swap \(a.k.a. forward start swap, delayed start swap\):
 
+
 * Credit default swaps:
 
 * Basis swaps:
 
+* Forex swaps: 
 
 * Swaption:
 * Quanto \(future/option/swap\):
