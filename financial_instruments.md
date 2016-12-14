@@ -35,7 +35,7 @@ A Swap is an agreement to exchange two cash flows coming from assets, but not th
 
 Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrates.com/)
 
-* OIS \(Overnight indexed swap\)
+* OIS \(Overnight indexed swap\) [https://en.wikipedia.org/wiki/Overnight\_indexed\_swap](https://en.wikipedia.org/wiki/Overnight_indexed_swap)
 
 * Forward swap \(a.k.a. forward start swap, delayed start swap\):
 
@@ -48,6 +48,7 @@ Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrate
 * Swaption:
 
 * Quanto \(future/option/swap\):
+
 
 
 
