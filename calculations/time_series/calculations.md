@@ -26,6 +26,7 @@
 * Rolling statistics
 
 ## Drawdown
+Good introduction: http://www.stat.columbia.edu/~vecer/maxdrawdown3.pdf
 
 The drawdown is a measure of the decline of a time series from its historical peak. Given a time series $$x_t$$, the drawdown at time $$t$$ is defined as:
 
