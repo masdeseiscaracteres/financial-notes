@@ -1,6 +1,30 @@
 # Time series calculations
 
-## 
+* Statistics
+
+  * Performance
+
+    * Total return
+
+    * Average return
+
+  * Risk
+
+  * Trade-off
+
+Total
+
+Risk
+
+rade-off
+
+
+
+* Annualized statistics
+
+* Rolling statistics
+
+
 
 ## Drawdown
 
