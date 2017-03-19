@@ -12,19 +12,9 @@
 
   * Trade-off
 
-Total
-
-Risk
-
-rade-off
-
-
-
-* Annualized statistics
+* Anualized statistics
 
 * Rolling statistics
-
-
 
 ## Drawdown
 
