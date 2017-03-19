@@ -9,6 +9,15 @@
     * Average return
 
   * Risk
+  
+    * Standard deviation
+    
+    * Value at Risk (VaR)
+    
+    * Expected shortfall
+       
+       Also known as Conditional Value at Risk (CVaR), Average Value at Risk (AVaR), and expected tail loss (ETL).
+    
 
   * Trade-off
 
