@@ -1,6 +1,14 @@
 # Financial instruments
 
-The goal of this document is building a taxonomy of financial contracts.
+The goal of this document is building a taxonomy of financial contracts. 
+Standarized (ISO 10962) classification: https://en.wikipedia.org/wiki/ISO_10962
+## Equity instruments
+### Stocks
+...
+
+## Debt instruments
+### Bonds
+[The bond market](http://www.thirdway.org/report/the-bond-market-how-it-works-or-how-it-doesnt)
 
 ## Derivatives
 
