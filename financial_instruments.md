@@ -58,5 +58,8 @@ Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrate
 * Quanto \(future/option/swap\):
 
 
-
+## Entitlements
+...
+### Warrants
+...
 
