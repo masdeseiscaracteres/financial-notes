@@ -1,7 +1,11 @@
 # Financial instruments
 
-The goal of this document is building a taxonomy of financial contracts. 
+The goal of this document is building a taxonomy of financial instruments. 
 Standarized (ISO 10962) classification: https://en.wikipedia.org/wiki/ISO_10962
+
+Good overview of structured products:
+https://www.oenb.at/dam/jcr:2ff77006-e55a-4d07-8383-897f895aca3e/phb_internet_tcm16-11173.pdf
+
 ## Equity instruments
 ### Stocks
 ...
@@ -15,6 +19,7 @@ Standarized (ISO 10962) classification: https://en.wikipedia.org/wiki/ISO_10962
 [OTC derivatives](http://chicagofed.org/digital_assets/publications/understanding_derivatives/understanding_derivatives_chapter_3_over_the_counter_derivatives.pdf)
 
 ### Options
+Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 
 ### Futures
 
