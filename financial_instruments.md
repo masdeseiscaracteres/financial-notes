@@ -9,6 +9,9 @@ http://www.marciniak.waw.pl/NEW/120201/FM13.pdf
 Good overview of structured products:
 https://www.oenb.at/dam/jcr:2ff77006-e55a-4d07-8383-897f895aca3e/phb_internet_tcm16-11173.pdf
 
+Financial Industry Business Ontology
+https://spec.edmcouncil.org/
+
 ## Equity instruments
 ### Stocks
 ...
