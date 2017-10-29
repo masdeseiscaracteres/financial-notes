@@ -3,6 +3,9 @@
 The goal of this document is building a taxonomy of financial instruments. 
 Standarized (ISO 10962) classification: https://en.wikipedia.org/wiki/ISO_10962
 
+Tentative classification:
+http://www.marciniak.waw.pl/NEW/120201/FM13.pdf
+
 Good overview of structured products:
 https://www.oenb.at/dam/jcr:2ff77006-e55a-4d07-8383-897f895aca3e/phb_internet_tcm16-11173.pdf
 
