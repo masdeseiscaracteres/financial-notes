@@ -30,7 +30,9 @@ Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 ### Futures
 
 ### Forwards
+
 Forward ([ES] contrato a plazo)
+
 Outright forward ([ES] seguro de cambio)
 
 ### Forward Rate Agreement \(FRA\)
