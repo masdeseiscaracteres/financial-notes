@@ -31,9 +31,10 @@ Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 
 ### Forwards
 
-Forward ([ES] contrato a plazo)
+- Forward ([ES] contrato a plazo)
 
-Outright forward ([ES] seguro de cambio)
+### Forex (FX)
+- Outright forward ([ES] seguro de cambio) (a.k.a. outright, forward outright, forex forward, currency forward)
 
 ### Forward Rate Agreement \(FRA\)
 
