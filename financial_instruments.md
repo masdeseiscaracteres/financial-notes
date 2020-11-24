@@ -47,7 +47,7 @@ Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 
 ### Forward Rate Agreement \(FRA\)
 
-The \_rate \_word in FRA may refer to currency exchange rate or interest rate. However, the most common use refers to interest rates \(by far\).
+The \_rate\_ word in FRA may refer to currency exchange rate or interest rate. However, the most common use refers to interest rates \(by far\).
 
 \(Interest rate\) FRAs allow us to _lock in_ a specified interest rate for borrowing between two future times. Payment is only done once at maturity. This is analogous in rates markets to the forward price of a stock or commodity for future delivery.
 
