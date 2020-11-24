@@ -22,6 +22,15 @@ https://spec.edmcouncil.org/
 
 ## Derivatives
 
+Depending on the type of underlying they may be:
+- Interest rate-linked
+- Equity-linked
+- Forex-linked
+- Commodity-linked
+- Credit-linked
+- Market-linked
+- Hybrid-linked
+
 [OTC derivatives](http://chicagofed.org/digital_assets/publications/understanding_derivatives/understanding_derivatives_chapter_3_over_the_counter_derivatives.pdf)
 
 ### Options
@@ -45,6 +54,7 @@ The \_rate \_word in FRA may refer to currency exchange rate or interest rate. H
 ### Swaps
 
 A Swap is an agreement to exchange two cash flows coming from assets, but not the assets themselves. Can be viewed as a chain of FRAs.
+
 
 [Interest rate parity](https://en.wikipedia.org/wiki/Interest_rate_parity) non-arbitrage condition
 
@@ -73,10 +83,10 @@ Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrate
 
 * Quanto \(future/option/swap\):
 
-## Structured products
+### Structured products
 [Target Redemption Forward (TARF)](https://www.kantox.com/en/glossary/target-redemption-forward/)
 
-## Entitlements
+### Entitlements
 ...
 ### Warrants
 ...
