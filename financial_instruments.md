@@ -33,8 +33,8 @@ Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 
 - Forward ([ES] contrato a plazo)
 
-### Forex (FX)
-- Outright forward ([ES] seguro de cambio) (a.k.a. outright, forward outright, forex forward, currency forward)
+#### Forex (FX)
+- Forex forward ([ES] seguro de cambio) (a.k.a. currency forward, outright forward, forward outright, outright)
 
 ### Forward Rate Agreement \(FRA\)
 
