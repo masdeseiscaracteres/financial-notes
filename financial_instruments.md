@@ -30,6 +30,8 @@ Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 ### Futures
 
 ### Forwards
+Forward ([ES] contrato a plazo)
+Outright forward ([ES] seguro de cambio)
 
 ### Forward Rate Agreement \(FRA\)
 
@@ -68,6 +70,8 @@ Reference: [http://www.tradinginterestrates.com/](http://www.tradinginterestrate
 
 * Quanto \(future/option/swap\):
 
+## Structured products
+[Target Redemption Forward (TARF)](https://www.kantox.com/en/glossary/target-redemption-forward/)
 
 ## Entitlements
 ...
