@@ -44,6 +44,8 @@ Good summary in Appendix of http://www.quantzone.org/?wpfb_dl=28
 
 #### Forex (FX)
 - Forex forward ([ES] seguro de cambio) (a.k.a. currency forward, outright forward, forward outright, outright)
+  - Forward ([ES] seguro de cambio simple)
+  - American forward ([ES] seguro de cambio abierto, forward flexible): it can be liquidated (either totally or partially) at any time before the expiration time. It's usually used by companies when they need to make recurrent payments in a foreign currency (e.g. payments to non-domestic providers or payrolls of employees in a foreign branch)
 
 ### Forward Rate Agreement \(FRA\)
 
